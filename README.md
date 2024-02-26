@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-- 🌱 I’m currently learning ** PostgreSQL , Vue.js , grpc , react **
+- 🌱 I’m currently learning **PostgreSQL , Vue.js , grpc , react**
 <br>
 <br>
 <br>
