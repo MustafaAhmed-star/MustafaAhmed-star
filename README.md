@@ -60,6 +60,9 @@ I don’t just *use* AI — I **build with it**:
 - Python
 - Django
 - Django REST Framework (DRF)
+- FastAPi
+- Odoo
+- Frape
 - RESTful APIs
 - JWT Authentication
 
