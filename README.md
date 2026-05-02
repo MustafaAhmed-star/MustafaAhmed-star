@@ -1,5 +1,5 @@
 
-# 🚀 Mustafa Ahmed Mohamed Abdelmgeed
+# 🚀 Mustafa Abdelmgeed
 
 <p align="center">
   <b>Backend Engineer | Django Specialist | AI-Augmented Developer</b><br>
