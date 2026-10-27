@@ -1,403 +1,216 @@
-<!--
-  MUSTAFA | GITHUB PROFILE README
-  Replace YOUR_USERNAME with your GitHub username.
-  Remove any technology, tool, or project claim that does not match your current work.
--->
+<!-- ============================================================
+  Save this file as README.md inside a PUBLIC repo named exactly:
+  MustafaAhmed-star/MustafaAhmed-star
+  Search for "TODO" below and fill in your real links.
+============================================================ -->
 
 <div align="center">
 
-# ⚡ Mustafa
-### Backend Engineer · AI Engineering in Progress
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00F7FF,50:7B2FF7,100:FF2E97&text=Mustafa%20Abdelmgeed&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%24%20sudo%20build%20--reliable-backends%20--no-hype&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="header"/>
 
-**Building reliable backends. Exploring intelligent systems. Turning ideas into engineering projects.**
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Engineering+%7C+Python+%26+Django;Designing+APIs+and+Data+Systems;Exploring+AI-Powered+Applications;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+<a href="https://github.com/MustafaAhmed-star">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Backend+Engineer+%7C+Python+%26+Django;%24+cat+mission.txt+%E2%86%92+Build+systems+that+don't+break+at+3AM;%24+git+log+--oneline+%E2%86%92+Fewer+buzzwords.+More+commits.;%24+next+%E2%86%92+AI+Engineering+on+a+rock-solid+backend" alt="typing"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/">
-  <img src="https://img.shields.io/badge/FOLLOW-ON_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+![Python](https://img.shields.io/badge/Python-0A0E14?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-0A0E14?style=for-the-badge&logo=django&logoColor=2BA977)
+![DRF](https://img.shields.io/badge/DRF-0A0E14?style=for-the-badge&logo=django&logoColor=FF2E97&label=REST%20Framework&labelColor=0A0E14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=for-the-badge&logo=postgresql&logoColor=4DA3FF)
+![Docker](https://img.shields.io/badge/Docker-0A0E14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0A0E14?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MustafaAhmed-star&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=MustafaAhmed-star&style=for-the-badge&color=7B2FF7&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/MustafaAhmed-star?style=for-the-badge&color=00F7FF&labelColor=0A0E14&logo=github)
+![Repos](https://img.shields.io/badge/REPOS-34-FF2E97?style=for-the-badge&labelColor=0A0E14&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## `01` — THE ENGINEER BEHIND THE CODE
-
-I'm Mustafa, a software developer from Egypt focused on **backend engineering, system design, and the transition toward AI engineering**.
-
-My foundation is built around Python, Django, Django REST Framework, PostgreSQL, and API development.
-
-I'm interested in understanding what happens beneath the interface: how applications model data, enforce permissions, handle business logic, communicate through APIs, and remain maintainable as requirements evolve.
-
-My next step is bringing AI capabilities into that foundation—not just calling an LLM API, but learning how to build useful, testable, reliable AI-powered applications.
-
-I believe in building projects that demonstrate engineering decisions, documenting trade-offs, and learning through implementation rather than collecting technologies.
+## 🖥️ `~/mustafa $ whoami`
 
 ```python
+# mustafa.py  —  last modified: always today
+
 class Engineer:
-    name = "Mustafa"
-    location = "Egypt"
+    name        = "Mustafa Abdelmgeed"
+    handle      = "MustafaAhmed-star"
+    based_in    = "Egypt 🇪🇬"
+    works_from  = "home, terminal open, coffee loading..."
+    religion    = "Read the traceback. Always."
 
-    current_focus = [
-        "Backend Engineering",
-        "System Design",
-        "AI Engineering",
+    stack = {
+        "language":  "Python",
+        "framework": ["Django", "Django REST Framework"],
+        "database":  "PostgreSQL",
+        "infra":     ["Docker", "Linux", "Git"],
+        "auth":      "JWT + role-based permissions",
+    }
+
+    scars = [                       # lessons the production gods taught me
+        "A missing index is a bug that hasn't been invoked yet.",
+        "Permissions are a feature, not an afterthought.",
+        "If it isn't tested, it's a rumor.",
+        "Clever code is a loan. Readable code is savings.",
+        "Measure first. Optimize second. Brag never.",
     ]
 
-    core_stack = [
-        "Python",
-        "Django",
-        "Django REST Framework",
-        "PostgreSQL",
-    ]
+    def now(self):
+        return "Leveling up from Backend Engineer → AI-powered systems"
 
-    engineering_principles = [
-        "Understand the problem before choosing the technology",
-        "Prefer simple designs that solve real problems",
-        "Make trade-offs explicit",
-        "Test assumptions instead of trusting them",
-        "Build proof, not hype",
-    ]
-
-    def next_step(self):
-        return "Build reliable AI-powered backend systems"
+    def philosophy(self):
+        return "Understand the system. Build it. Measure it. Fix what fails."
 ```
 
-> **My philosophy:** Understand the system. Build the solution. Measure what matters. Improve what fails.
-
 ---
 
-## `02` — ENGINEERING ARSENAL
-
-### 🐍 Backend Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,linux" alt="Backend technologies"/>
-</p>
-
-| Area | Technologies & Concepts |
-|---|---|
-| Programming | Python |
-| Backend Frameworks | Django, Django REST Framework |
-| API Development | REST APIs, serializers, API design |
-| Databases | PostgreSQL, relational modeling, SQL |
-| Authentication | JWT, authentication flows, role-based permissions |
-| Background Processing | Redis, Celery |
-| Infrastructure | Docker, Linux, environment configuration |
-| Engineering | Database design, system design, backend architecture |
-
-### 🧠 AI Engineering — Learning & Building
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,docker" alt="AI engineering foundation"/>
-</p>
-
-My AI engineering roadmap is focused on building practical applications on top of a strong backend foundation.
-
-| Focus Area | Engineering Goal |
-|---|---|
-| LLM Integration | Connect language models to backend applications |
-| Structured Outputs | Produce validated, predictable model responses |
-| Retrieval-Augmented Generation | Ground model responses in relevant source material |
-| Embeddings & Retrieval | Understand semantic search and retrieval pipelines |
-| Tool Calling | Let models select and use appropriate application tools |
-| Evaluation | Measure answer quality and identify failure cases |
-| Reliability | Handle timeouts, retries, validation, and model errors |
-| Observability | Track latency, failures, token usage, and application behavior |
-| Production Architecture | Understand security, cost, deployment, and operational trade-offs |
-| MCP | Explore standardized connections between AI applications and tools |
-
-*These are learning and implementation goals, not claims that every capability is already mastered or deployed.*
-
----
-
-## `03` — FEATURED ENGINEERING PROJECTS
-
-Projects are where ideas meet implementation.
-
-My portfolio focuses on backend architecture, business rules, data modeling, permissions, and the engineering decisions behind each system.
-
-### 🟣 01. Mongz — Service Marketplace
-
-**Connecting clients with service professionals.**
-
-Mongz is a service-marketplace backend designed around the workflows of two primary roles: clients and workers.
-
-The engineering challenge is more than creating endpoints. It involves modeling the marketplace, protecting user data, and implementing consistent order workflows.
-
-**Core engineering scope**
-
-- User authentication and role-based permissions.
-- Worker profiles and service categories.
-- Order creation and lifecycle management.
-- Ratings and favorites.
-- Notifications and chat.
-- PostgreSQL data modeling.
-- API architecture and payment integration planning.
-
-**Technology stack**
-
-`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `JWT`
-
-**Engineering questions I'm exploring**
-
-- How should permissions differ between clients, workers, and administrators?
-- How can an order lifecycle prevent invalid state transitions?
-- Which database relationships best represent marketplace behavior?
-- How should chat, notifications, and payments fit into the architecture?
-
-<a href="https://github.com/MustafaAhmed-star">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Mongz project"/>
-</a>
-
-*Project case study: no real-user traction or production scale is claimed.*
-
----
-
-### 🟢 02. Bossla Energy — Renewable Energy Learning Platform
-
-**An educational platform designed around structured learning and measurable progress.**
-
-Bossla Energy is a learning-platform backend for renewable-energy education. Its content model organizes educational material into a clear hierarchy:
-
-`Domain → Track → Module → Lesson`
-
-The backend is designed to support learning progression, enrollment, assessments, certificates, and student engagement.
-
-**Core engineering scope**
-
-- Authentication and student profiles.
-- Structured learning-content management.
-- Enrollment workflows and access control.
-- Lesson progress tracking.
-- Multiple-choice quizzes and final examinations.
-- Certificate generation and public verification.
-- Track ratings and student reviews.
-- Points earned through defined learning activities.
-
-**Technology & infrastructure**
-
-`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `Cloudflare R2` · `Bunny Stream`
-
-**Engineering questions I'm exploring**
-
-- How should content hierarchy map to relational database models?
-- How can lesson progression be controlled by assessment results?
-- How can certificates be generated and verified reliably?
-- How should media storage and video delivery be separated from the application backend?
-- How can API contracts remain stable for a separate Next.js frontend?
-
-**Architecture principle:** Keep business rules explicit, database relationships understandable, and the implementation as simple as the requirements allow.
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Bossla Energy project"/>
-</a>
-
-*Project case study: implementation status and production metrics are not claimed here.*
-
----
-
-### 🔵 03. Ghaith — Patient & Nurse Platform
-
-**Backend engineering for a healthcare-oriented workflow.**
-
-Ghaith is a medical-platform backend concept centered on interactions between patients and nurses.
-
-Its focus is on modeling user roles, protecting access, and organizing requests through a defined lifecycle.
-
-**Core engineering scope**
-
-- JWT authentication.
-- Patient and nurse roles.
-- Role-based access control.
-- Request and order lifecycle management.
-- Database design.
-- REST API architecture.
-
-**Technology stack**
-
-`Python` · `Django` · `Django REST Framework` · `PostgreSQL`
-
-**Engineering questions I'm exploring**
-
-- How should sensitive resources be protected by role and ownership?
-- How can request states be modeled consistently?
-- Which relationships make the data model easier to maintain?
-- How should API behavior be tested across different user roles?
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Ghaith project"/>
-</a>
-
-*Project case study: no real-user adoption or production deployment is implied.*
-
----
-
-### 🚀 04. AI + Backend Engineering Lab
-
-**The next stage of my engineering journey.**
-
-My AI-focused work is centered on learning how to integrate intelligence into conventional software systems.
-
-The objective is to move beyond a basic model API call and understand the full application surrounding it.
-
-**Planned engineering progression**
-
-```text
-LLM API Integration
-        │
-        ▼
-Structured Outputs & Validation
-        │
-        ▼
-Retrieval-Augmented Generation (RAG)
-        │
-        ▼
-Tool Calling & Application Integration
-        │
-        ▼
-Evaluation & Failure Analysis
-        │
-        ▼
-Reliability & Observability
-        │
-        ▼
-Deployment & Production Architecture
-```
-
-Each stage should produce practical evidence: working code, tests, documented decisions, evaluation results, and clearly stated limitations.
-
-The goal is not to add AI to a project simply because it is fashionable. The goal is to identify a real problem where AI provides a useful capability and engineer the surrounding system responsibly.
-
----
-
-## `04` — HOW I THINK ABOUT SYSTEMS
-
-I care about the decisions that make software reliable and maintainable.
-
-| Engineering Concern | My Approach |
-|---|---|
-| Architecture | Start with requirements and responsibilities |
-| Data Modeling | Define entities, relationships, constraints, and ownership |
-| API Design | Make request and response contracts predictable |
-| Security | Enforce authentication, authorization, and input validation |
-| Business Logic | Keep rules explicit and easy to trace |
-| Testing | Verify expected behavior and important failure cases |
-| Performance | Measure bottlenecks before optimizing |
-| AI Integration | Validate outputs and account for model limitations |
-| Maintainability | Prefer understandable code over unnecessary abstractions |
-| Documentation | Explain decisions, trade-offs, and known limitations |
-
-**The objective is not maximum complexity. It's the right amount of complexity for the problem.**
-
----
-
-## `05` — GITHUB COMMAND CENTER
+## 🛠️ `$ ls ~/arsenal`
 
 <div align="center">
 
-### 📊 Engineering Activity
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages"/>
-</a>
-
-### 🔥 Contribution Activity
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
-
-### 🗺️ Contribution Map
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://ghchart.rshah.org/00F7FF/YOUR_USERNAME" alt="GitHub contribution graph"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,linux,nginx,vscode,postman&perline=11" alt="skills"/>
 
 </div>
 
-*Statistics are generated by external services and may be unavailable or temporarily inaccurate. Language statistics describe detected repository code, not proficiency. Contribution activity is not a measure of engineering quality.*
+| 🎯 Layer | ⚡ Weapons of choice |
+|:--|:--|
+| **Language** | `Python` |
+| **Backend** | `Django` · `Django REST Framework` · serializers · viewsets · permissions |
+| **Data** | `PostgreSQL` · relational modeling · constraints · query tuning |
+| **Auth** | `JWT` · role-based access control · ownership rules |
+| **Async** | `Redis` · `Celery` |
+| **Ship it** | `Docker` · `Linux` · env-based config |
+| **Mindset** | system design · explicit trade-offs · boring tech that works |
 
 ---
 
-## `06` — CURRENT MISSION
+## 🚀 `$ git log --featured-projects`
 
-My growth plan is built around practical engineering evidence.
+### 🟣 Mongz — Service Marketplace
+> *Two roles. One marketplace. Zero tolerance for invalid order states.*
 
-- [x] Build a foundation in Python and Django backend development.
-- [x] Work with REST APIs, authentication, and relational data modeling.
-- [ ] Strengthen database and system-design fundamentals.
-- [ ] Improve automated testing and API reliability.
-- [ ] Build an AI-powered backend application.
-- [ ] Implement a RAG pipeline and evaluate retrieval quality.
-- [ ] Explore tool calling and appropriate MCP use cases.
-- [ ] Document architecture, trade-offs, and failure scenarios.
-- [ ] Deploy and monitor an AI-powered application.
-- [ ] Publish engineering case studies and share useful technical lessons.
+Backend for connecting **clients** with **service professionals**: role-based auth, worker profiles & categories, order lifecycle, ratings & favorites, notifications, chat.
+`Python` `Django` `DRF` `PostgreSQL` `JWT`
 
-*The checked items describe my existing foundation; the remaining items are ongoing goals, not completed achievements.*
+### 🟢 Bossla Energy — Renewable Energy Learning Platform
+> *Learning with structure, progress you can measure.*
 
----
+Content hierarchy: **`Domain → Track → Module → Lesson`**.
+Enrollment, lesson progress, quizzes & final exams, verifiable certificates, reviews, and points.
+`Python` `Django` `DRF` `PostgreSQL` `Cloudflare R2` `Bunny Stream` — API-first for a separate Next.js frontend.
 
-## `07` — BEYOND THE REPOSITORIES
+### 🔵 Ghaith — Patient & Nurse Platform
+> *Sensitive data demands strict access rules.*
 
-I'm interested in more than writing code in isolation.
+JWT auth, patient/nurse roles, request lifecycle, ownership-based access control.
+`Python` `Django` `DRF` `PostgreSQL`
 
-I want to learn from engineers who care about system design, software architecture, practical AI, and the trade-offs involved in building dependable products.
+### 📌 Pinned Repos
 
-I'm especially interested in conversations about:
-
-- Backend architecture and database design.
-- AI engineering beyond simple API integrations.
-- Open-source collaboration and technical problem-solving.
-- Building software products from initial requirements to deployment.
-- Remote engineering opportunities and meaningful professional relationships.
-
-I prefer sharing what I actually build, including what breaks, what changes, and what I learn along the way.
-
-**No guru claims. No artificial success stories. Just engineering, evidence, and continuous improvement.**
+| Repo | Stack | What it is |
+|:--|:--|:--|
+| [**EcommerceDRFApi**](https://github.com/MustafaAhmed-star/EcommerceDRFApi) | `Python` | E-commerce REST API with DRF |
+| [**Dj-Ecommerce**](https://github.com/MustafaAhmed-star/Dj-Ecommerce) | `Python` | Micro e-commerce in Django |
+| [**Cinema_Tickets-Api**](https://github.com/MustafaAhmed-star/Cinema_Tickets-Api) | `Python` | Cinema ticketing API |
+| [**Egreen-Store**](https://github.com/MustafaAhmed-star/Egreen-Store) | `HTML` | Storefront front-end |
 
 ---
 
-## `08` — LET'S CONNECT
+## 🧠 `$ ./roadmap --ai`
+
+```text
+ ┌──────────────────────────────┐
+ │  LLM API Integration         │  ← talk to the model
+ └──────────────┬───────────────┘
+                ▼
+ ┌──────────────────────────────┐
+ │  Structured Outputs          │  ← validate everything
+ └──────────────┬───────────────┘
+                ▼
+ ┌──────────────────────────────┐
+ │  RAG + Embeddings            │  ← ground the answers
+ └──────────────┬───────────────┘
+                ▼
+ ┌──────────────────────────────┐
+ │  Tool Calling / MCP          │  ← let it act, safely
+ └──────────────┬───────────────┘
+                ▼
+ ┌──────────────────────────────┐
+ │  Evals + Observability       │  ← measure, don't guess
+ └──────────────┬───────────────┘
+                ▼
+        🚢  production
+```
+
+<sub>*Learning goals, not mastery claims. Every stage will ship with code, tests, and honest write-ups.*</sub>
+
+---
+
+## 📊 `$ ./stats --live`
 
 <div align="center">
 
-### Have an interesting engineering problem?
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MustafaAhmed-star&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAhmed-star&layout=compact&theme=radical&hide_border=true" alt="languages"/>
 
-I'm open to thoughtful technical discussions, collaboration, and opportunities to build useful software.
+<img src="https://streak-stats.demolab.com?user=MustafaAhmed-star&theme=radical&hide_border=true" alt="streak"/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/">
-  <img src="https://img.shields.io/badge/X-Engineering%20notes-000000?style=for-the-badge&logo=x" alt="X"/>
-</a>
+<img src="https://ghchart.rshah.org/7B2FF7/MustafaAhmed-star" alt="contributions" width="95%"/>
 
-<br/><br/>
+<sub>Stats come from third-party services and can lag. Numbers ≠ skill.</sub>
 
-**Built with curiosity. Improved through practice. Driven by engineering.**
+</div>
 
-<sub>Python • Backend Engineering • AI Systems • Continuous Learning</sub>
+---
+
+## 📜 `$ cat ~/.engineering-rules`
+
+```diff
++ Understand the problem before choosing the tech
++ Make trade-offs explicit, write them down
++ Keep business rules visible and traceable
++ Test the failure paths, not just the happy path
++ Prefer simple designs that survive requirement changes
+- No guru talk
+- No fake success stories
+- No complexity for its own sake
+```
+
+---
+
+## 🏆 `$ ls ~/trophies`
+
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-x2-4DA3FF?style=for-the-badge&labelColor=0A0E14)
+![Pair Extraordinaire](https://img.shields.io/badge/🤝_Pair_Extraordinaire-7B2FF7?style=for-the-badge&labelColor=0A0E14)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-FFD43B?style=for-the-badge&labelColor=0A0E14)
+![YOLO](https://img.shields.io/badge/🎲_YOLO-FF2E97?style=for-the-badge&labelColor=0A0E14)
+
+</div>
+
+---
+
+## 📡 `$ ping mustafa`
+
+<div align="center">
+
+Got a hard backend problem, an API to design, or an idea that deserves real engineering?
+
+[![GitHub](https://img.shields.io/badge/GitHub-MustafaAhmed--star-0A0E14?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/MustafaAhmed-star)
+<!-- TODO: replace with your real LinkedIn URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+<!-- TODO: replace with your real email -->
+[![Email](https://img.shields.io/badge/Email-Say_hello-FF2E97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+<br/>
+
+```bash
+$ echo "Built with curiosity. Hardened by debugging. Driven by engineering."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF2E97,50:7B2FF7,100:00F7FF&section=footer" width="100%" alt="footer"/>
 
 </div>
