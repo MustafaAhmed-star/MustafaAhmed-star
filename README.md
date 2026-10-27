@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MustafaAhmed-star&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -160,7 +160,7 @@ The engineering challenge is more than creating endpoints. It involves modeling 
 - Which database relationships best represent marketplace behavior?
 - How should chat, notifications, and payments fit into the architecture?
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MustafaAhmed-star">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Mongz project"/>
 </a>
 
